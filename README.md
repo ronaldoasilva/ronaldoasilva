@@ -1,3 +1,4 @@
+### Hi there, I'm [Ronaldo Araujo][website] 👋
 
 ## So a bit about myself!
 
