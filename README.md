@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ronaldo Araujo][website] 👋
 
-## So a bit about myself!
+### So a bit about myself!
 
 - 🔭 I'm CTO at  [Level 100 Solutions], Full Stack Developer and Mobile Develepor
 - 🌱 I’m currently learning everything 😂
