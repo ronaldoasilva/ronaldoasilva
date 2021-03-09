@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ronaldoaraujo.com" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/841/841364.svg?token=exp=1612220478~hmac=6a96328d398ee70416101424b36524d1" />][website]
+[<img align="left" alt="ronaldoaraujo.com" width="22px" src="https://image.freepik.com/free-icon/world-wide-web_318-9868.jpg" />][website]
 [<img align="left" alt="email" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/893/893247.svg?token=exp=1612220560~hmac=4c9d97b3e99856ea789abbc4cdb93cae" />][email]
 [<img align="left" alt="ronaldo | Twitter" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1612220766~hmac=dc59673ca866226355f5c11909e1b65a" />][twitter]
 [<img align="left" alt="ronaldo | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612220838~hmac=e26cc77bc2fc16ee86c1e34871e204b4" />][linkedin]
