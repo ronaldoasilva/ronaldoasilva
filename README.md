@@ -10,9 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="ronaldoaraujo.com" width="22px" src="https://image.freepik.com/free-icon/world-wide-web_318-9868.jpg" />][website]
-[<img align="left" alt="email" width="22px" src="https://image.flaticon.com/icons/png/512/129/129643.png" />][email]
-[<img align="left" alt="ronaldo | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/124/124021.png" />][twitter]
-[<img align="left" alt="ronaldo | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/124/124011.png" />][linkedin]
+[<img align="left" alt="ronaldo | LinkedIn" width="100px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="ronaldoaraujo.com" width="140px" src="https://www.level100.com.br/images/logo-level100-pequeno.png" />][Level 100 Solutions]
 
 <br />
@@ -42,6 +40,9 @@
 <img align="left" alt="aws" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/aws/aws.png" />
 <img align="left" alt="wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 <img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="blazor" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" />
+<img align="left" alt="sql-server" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+          
 
 <br />
 <br />
