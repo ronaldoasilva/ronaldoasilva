@@ -2,7 +2,7 @@
 
 ### So a bit about myself!
 
-- 🔭 I'm CTO at  [Level 100 Solutions], Full Stack Developer  🖥 and Mobile Develepor 📱
+- 🔭 I'm Full Stack Developer  🖥 and Mobile Develepor 📱
 - 🌱 I’m currently learning everything 😂
 - 👯 I’m looking to collaborate with your dream 🚀
 - 🎭 Fun fact: Trying to be Fitness🏋️‍♂️ / Drums🎵 / Movies📺 / and Discovery🌍
